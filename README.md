@@ -4,13 +4,13 @@ mongosh
 
 
 
-To create or switch to Database type  :
+**To create or switch to Database type  :**
 
 use Codetribe
 
 
 
-To create a collection or collections  :
+**To create a collection or collections  :**
 
 db.createCollection("Facilitators"),
 db.createCollection("Trainees"),
@@ -18,7 +18,7 @@ db.createCollection("Projects")
 
 
 
-To insert data into collection type the following  :
+**To insert data into collection type the following  :**
 
 db.Facilitators.insertOne({name: "KB", location: "Kimberley", course: "Fullstack Development"}),
 
