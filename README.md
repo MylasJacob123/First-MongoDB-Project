@@ -1,4 +1,4 @@
-To start your mongo shell type the following command  :
+**To start your mongo shell type the following command  :**
 
 mongosh
 
